@@ -387,8 +387,8 @@ class yaoii {
                             participant: jid,
                             remoteJid: "status@broadcast",
                             forwardedNewsletterMessageInfo: {
-                                newsletterName: "alip clutch.",
-                                newsletterJid: "120363401467939056@newsletter",
+                                newsletterName: "SUPUN MD.",
+                                newsletterJid: "120363391079867105@newsletter",
                                 serverMessageId: 1
                             },
                             ...(quoted ? {
